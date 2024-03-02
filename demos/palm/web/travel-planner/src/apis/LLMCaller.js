@@ -17,7 +17,7 @@
 export default class LLMCaller {
   constructor() {
     this.apiKey = import.meta.env.VITE_GOOGLE_GENERATIVE_LANGUAGE_API_KEY
-    this.baseUrl = 'https://generativelanguage.googleapis.com';
+    this.baseUrl = 'https://gemini-ai.danny7360.workers.dev';
   }
 
   async sendPrompt(context, examples, messages, temperature = 0) {
