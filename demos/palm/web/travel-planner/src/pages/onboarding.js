@@ -97,7 +97,7 @@ export default function () {
               left: '50%'
             }}
           >
-            <Typography fontFamily="Google Sans" fontWeight="bold" variant="h3">Roam Rover</Typography>
+            <Typography fontFamily="Google Sans" fontWeight="bold" variant="h3">RoamRover AI Planner</Typography>
             <Typography fontFamily="Google Sans" variant="h7">Get your travel itinerary as simple as talking to a friend</Typography>
           </Stack>
 
